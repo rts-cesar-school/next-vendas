@@ -1,0 +1,31 @@
+data,produto,categoria,quantidade,preco_unitario
+2026-01-05,Fone Bluetooth,Eletrônicos,3,149.90
+2026-01-12,Livro Python para Dados,Livros,5,89.00
+2026-01-18,Garrafa Térmica,Casa,4,59.90
+2026-01-25,Bola de Futebol,Esportes,2,119.00
+2026-01-28,Mouse sem Fio,Eletrônicos,6,79.90
+2026-02-02,Luminária LED,Casa,3,99.00
+2026-02-09,Livro Estatística Básica,Livros,4,72.50
+2026-02-15,Teclado Mecânico,Eletrônicos,2,349.00
+2026-02-21,Tapete de Yoga,Esportes,5,89.90
+2026-02-27,Jogo de Panelas,Casa,1,429.00
+2026-03-03,Carregador Turbo,Eletrônicos,8,69.90
+2026-03-10,Livro SQL na Prática,Livros,6,95.00
+2026-03-16,Halteres 5kg,Esportes,4,139.90
+2026-03-22,Organizador de Gaveta,Casa,7,34.90
+2026-03-29,Webcam HD,Eletrônicos,3,219.00
+2026-04-04,Livro Git Essencial,Livros,9,65.00
+2026-04-11,Bicicleta Ergométrica,Esportes,1,1299.00
+2026-04-17,Cafeteira Elétrica,Casa,2,249.90
+2026-04-24,Fone Bluetooth,Eletrônicos,5,149.90
+2026-05-02,Corda de Pular,Esportes,10,29.90
+2026-05-08,Livro Python para Dados,Livros,7,89.00
+2026-05-14,Monitor 24 polegadas,Eletrônicos,2,899.00
+2026-05-20,Garrafa Térmica,Casa,6,59.90
+2026-05-27,Tênis de Corrida,Esportes,3,399.90
+2026-06-03,Mouse sem Fio,Eletrônicos,9,79.90
+2026-06-09,Livro Estatística Básica,Livros,3,72.50
+2026-06-15,Luminária LED,Casa,5,99.00
+2026-06-21,Bola de Futebol,Esportes,4,119.00
+2026-06-26,Teclado Mecânico,Eletrônicos,3,349.00
+2026-06-30,Livro SQL na Prática,Livros,2,95.00
