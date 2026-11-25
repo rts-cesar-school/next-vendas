@@ -1,4 +1,4 @@
-# NExT Vendas
+# NExT Vendas - Aula 3
 
 Análise simples de vendas: faturamento por mês e por categoria a partir de um CSV.
 
