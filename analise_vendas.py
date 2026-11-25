@@ -43,7 +43,7 @@ def faturamento_por_categoria(vendas):
 
 def formatar_reais(valor):
     """Formata 1234.5 como 'R$ 1.234,50'."""
-    texto = f"{valor:,.2f}".replace(",", "_").replace(".", ",").replace("_", ".")
+    texto = f"{valor:,.5f}".replace(",", "_").replace(".", ",").replace("_", ".")
     return f"R$ {texto}"
 
 
