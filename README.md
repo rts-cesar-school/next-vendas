@@ -2,7 +2,7 @@
 
 Análise simples de vendas: faturamento por mês e por categoria a partir de um CSV.
 
-## Como rodar
+## Como rodar o repositório
 
 ```bash
 python analise_vendas.py
