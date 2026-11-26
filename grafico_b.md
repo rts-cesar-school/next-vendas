@@ -1,4 +1,4 @@
-# Gráfico B
+# Gráfico B - Aula 3
 
 Criar um gráfico para exibir a variação do estoque por produto. Importante iniciar a partir de 2024.
 
